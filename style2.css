@@ -1,0 +1,31 @@
+*{
+	margin:0px;
+	margin:0px;
+}
+
+h1{
+	text-align: center;
+	padding:20px;
+	font-size: 60px;
+	color: blue;
+}
+.label1{
+	background: black;
+	text-align: center;
+}
+#name{
+	width:600px;
+	border:none;
+	border-radius:50px;
+	outline: 0;
+	padding:10px;
+	}
+	.finalpage{
+	background: #FFA07A;
+	width:1200px;
+	margin:0px 0px 0px 1000px;
+	color: white;
+	font-size: 36px;
+	padding:50px;
+	border-radius: 20px;
+}

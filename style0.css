@@ -1,0 +1,73 @@
+body{
+	margin: 0;
+
+}
+header{
+	background: pink;
+	color: white;
+	padding: 0px 0px 40px;
+	height:80px;
+}
+header h1{
+	display: inline;
+	font-family: Arial;
+	font-weight:400;
+	font-size:30px;
+	float :left;
+	margin-top: 5px;
+	margin-right: 0px;
+}
+nav ul{
+	display:inline;
+	padding:10px;
+	float: right;
+	text-decoration: none;
+}
+nav ul li{
+	display: inline-block;
+	 list-style-type: none;
+	 color:white;
+	 float: left;
+	 margin-left: 12px;
+}
+nav ul a{
+	color:white;
+	text-decoration: none;
+
+}
+.homered{
+	background-color :red;
+	padding:2px 2px 2px 2px;
+	font-size:40px;
+}
+.divider{
+	background-color:red;
+	height:5px;
+}
+.homeblack:hover
+{
+	background-color:blue;
+	font-size:40px;
+}
+.homesub{
+	font-family: initial;
+	margin:0% 0% 0% 10%;
+	padding:9% 5% 0% 40%;
+	font-size:35px;
+	color: blue;
+	font-size:80px;
+}
+.homeak{
+	font-family:inherit; ;
+	margin:0.5% 0% 0% 55%;
+	
+	font-size: 70px;
+	color:violet;
+
+}
+
+
+
+
+
+
